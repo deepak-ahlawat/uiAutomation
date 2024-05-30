@@ -1,2 +1,2 @@
 # uiAutomation
-Storing the automation files of the team. 
+It is created to store my ui automation changes.
